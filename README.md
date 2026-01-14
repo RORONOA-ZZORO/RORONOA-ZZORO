@@ -1,88 +1,21 @@
-<div align="center">
-  <h1>👋 Hi, I'm Rahul Saini</h1>
-  <p>🎓 BCA (Hons) Student @ ICFAI Tech University | 🔐 Cybersecurity & Technology Enthusiast</p>
-  <p>💼 Open to <b>Internships & Entry-Level Opportunities</b></p>
-</div>
+# 💫 About Me:
+- 🎓 BCA (Hons) Student @ ICFAI Tech University  <br>- 🔐 Passionate about technology and cybersecurity<br>- 🐍 Hands-on experience with Python<br>- 🐧 Skilled in Linux & system administration  <br>- 💡 Focused on understanding how systems work & how to secure them  <br>- 🚀 Driven, disciplined, and committed to continuous learning<br>- 💼 Open to internships and entry-level opportunities  <br>- ✍️ Enjoy writing poetry and exploring creative ideas 
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RORONOA-ZZORO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RORONOA-ZZORO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RORONOA-ZZORO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RORONOA-ZZORO&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RORONOA-ZZORO&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RORONOA-ZZORO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div style="border: 2px solid #FF0000; padding: 15px; border-radius: 10px;">
-## 🧠 About Me
-- 🎓 BCA (Hons) Student @ ICFAI Tech University  
-- 🔐 Passionate about <b>technology and cybersecurity</b>  
-- 🐍 Hands-on experience with <b>Python</b>  
-- 🐧 Skilled in <b>Linux & system administration</b>  
-- 💡 Focused on understanding <b>how systems work & how to secure them</b>  
-- 🚀 Driven, disciplined, and committed to <b>continuous learning</b>  
-- 💼 Open to <b>internships and entry-level opportunities</b>  
-- ✍️ Enjoy writing <b>poetry</b> and exploring creative ideas  
-</div>
-
----
-
-<div style="border: 2px solid #00FF00; padding: 15px; border-radius: 10px;">
-## 🛠 Skills
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFE873)](https://www.python.org/)  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)](https://www.kernel.org/)  
-
-- Cybersecurity Fundamentals  
-- Command Line & System Administration  
-- Networking Basics  
-- Problem-solving & Continuous Learning  
-</div>
-
----
-
-<div style="border: 2px solid #0000FF; padding: 15px; border-radius: 10px;">
-## 📌 Pinned Projects
-### [Python Security Scripts](https://github.com/yourusername/python-security-scripts)  
-Automation & security scripts built with Python.
-
-### [Linux Learning Labs](https://github.com/yourusername/linux-learning-labs)  
-Hands-on Linux exercises for system management and scripting.
-
-### [Portfolio Mini Projects](https://github.com/yourusername/portfolio-mini-projects)  
-Small projects demonstrating skills in Python & Linux.
-
-> *(Replace links with your actual repo URLs)*
-</div>
-
----
-
-<div style="border: 2px solid #FF00FF; padding: 15px; border-radius: 10px;">
-## 📈 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide=jupyter%20notebook)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)  
-</div>
-
----
-
-<div style="border: 2px solid #FFA500; padding: 15px; border-radius: 10px;">
-## 🎯 Interests & Hobbies
-- Exploring <b>cybersecurity concepts</b>  
-- Learning new technologies  
-- Writing <b>poetry</b>  
-- Continuous self-improvement
-</div>
-
----
-
-<div style="border: 2px solid #00FFFF; padding: 15px; border-radius: 10px;">
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-</div>
-
----
-
-<div align="center">
-  <h2>💼 Recruiter Call-to-Action</h2>
-  <p>If you are looking for a <b>passionate, skilled, and motivated intern or junior cybersecurity professional</b>, feel free to connect with me! I’m ready to learn, contribute, and make an impact.</p>
-</div>
-
----
-
-> *“Learning never stops — especially in cybersecurity.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
